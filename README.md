@@ -1,6 +1,8 @@
 # TheApp
 
-Web: [https://thethe.io/](https://thethe.io/)
+## Website
+
+[https://thethe.io/](https://thethe.io/)
 
 ## License
 
